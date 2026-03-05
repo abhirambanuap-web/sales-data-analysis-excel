@@ -1,0 +1,51 @@
+📊 Sales Analysis Dashboard – Excel Project
+
+This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel to analyze sales performance across different dimensions such as city, region, product category, and time period.
+
+The dashboard provides a clear visual overview of key business metrics including Total Sales, Total Profit, Quantity Sold, and Profit Margin. Interactive slicers for Year, Region, and Month allow users to dynamically filter the data and explore insights.
+
+🔧 Tools Used
+
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts
+
+Slicers
+
+Data Cleaning
+
+Dashboard Design
+
+📈 Dashboard Features
+
+KPI cards displaying Total Sales, Profit, Quantity, and Margin %
+
+Sales by City analysis
+
+Sales by Segment distribution
+
+Region-wise Sales %
+
+Category-wise Quantity %
+
+Monthly Sales Trend
+
+Sales by Day of Week
+
+Top 10 Product Sales
+
+💡 Key Insights
+
+Consumer segment contributes the highest sales (~52%)
+
+East and West regions generate the largest share of revenue
+
+Technology category has strong product performance
+
+Sales peak during the last quarter of the year
+
+🎯 Objective
+
+The goal of this project is to demonstrate data visualization, business insight generation, and dashboard development skills using Excel for data analysis.
